@@ -6,4 +6,3 @@ System.out.println("the elements"+a[i]);
 }
 }
 }
- 
